@@ -51,3 +51,4 @@ git branch "имя ветки новой'
 git push origin --delete " name branch"
 ```
 
+
