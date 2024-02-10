@@ -50,11 +50,4 @@ git branch "имя ветки новой'
 ``` sh
 git push origin --delete " name branch"
 ```
-<<<<<<< HEAD
 
-текст в браузере
-
-
-=======
-текст локал
->>>>>>> 7a5c81d (text)
