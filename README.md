@@ -50,7 +50,7 @@ git branch "имя ветки новой'
 ``` sh
 git push origin --delete " name branch"
 ```
+
 текст в браузере
 
-Добавил локальный конфликт
 
