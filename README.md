@@ -46,5 +46,11 @@ git pull
 ``` sh
 git branch "имя ветки новой'
 ```
+Удаление веткив VSc
+``` sh
+git push origin --delete " name branch"
+```
+разрешаем конфликт
+разрешаем конфликт
 
 
