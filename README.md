@@ -34,8 +34,13 @@ git remote add origin ("ссылка")
 ``` sh
 git push -m origin main
 ```
+# *
 ``` sh
 git remote -v
 ```
-
+``` sh
+# *
+``` sh
+git pull
+```
 
