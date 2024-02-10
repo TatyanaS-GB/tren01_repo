@@ -38,9 +38,13 @@ git push -m origin main
 ``` sh
 git remote -v
 ```
-``` sh
 # *
 ``` sh
 git pull
 ```
+# *
+``` sh
+git branch ("имя ветки новой')
+```
+
 
