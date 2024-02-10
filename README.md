@@ -52,4 +52,5 @@ git push origin --delete " name branch"
 ```
 текст в браузере
 
+Добавил локальный конфликт
 
