@@ -28,7 +28,7 @@ git branch -M main
 ```
 # *
 ``` sh
-git remote add origin ("ссылка")
+git remote add origin ("//ссылка//")
 ```
 # *
 ``` sh
@@ -44,7 +44,7 @@ git pull
 ```
 # *
 ``` sh
-git branch ("имя ветки новой')
+git branch "имя ветки новой'
 ```
 
 
