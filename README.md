@@ -28,7 +28,7 @@ git branch -M main
 ```
 # *
 ``` sh
-git remote add origin ("//ссылка//")
+git remote add origin
 ```
 # *
 ``` sh
@@ -48,7 +48,7 @@ git branch "имя ветки новой'
 ```
 Удаление веткив VSc
 ``` sh
-git push origin --delete " name branch"
+git push origin --delete "name branch"
 ```
 
 
