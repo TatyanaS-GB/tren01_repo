@@ -30,7 +30,7 @@ git branch -M main
 ``` sh
 git remote add origin
 ```
-# *
+## *
 ``` sh
 git push -m origin main
 ```
@@ -46,10 +46,12 @@ git pull
 ``` sh
 git branch "имя ветки новой'
 ```
+## *
 Удаление веткив VSc
 ``` sh
 git push origin --delete "name branch"
 ```
+## *
 local
 
 
